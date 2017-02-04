@@ -1,6 +1,7 @@
-# news
 
-> A Vue.js project
+# vuenews
+
+A example using Vue.js and News API
 
 ## Build Setup
 
@@ -22,3 +23,9 @@ npm test
 ```
 
 For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+
+### Credits
+
+https://newsapi.org
+
+https://www.youtube.com/watch?v=p-7Zi9xYt2M
